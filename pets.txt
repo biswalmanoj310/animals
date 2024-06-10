@@ -2,3 +2,6 @@ rusty
 chicks
 dogs
 cows
+hari
+aum
+ram
